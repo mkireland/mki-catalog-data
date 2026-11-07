@@ -460,7 +460,7 @@
   },
   {
     "id": "aurawriter-3b28c7cd",
-    "status": "",
+    "status": "Published",
     "title": "AuraWriter",
     "description": "Writing app",
     "section": "Apps",
@@ -481,6 +481,8 @@
     "amazon_url": "",
     "zazzle_url": "",
     "amazon_merch_url": "",
+    "github_url": "https://github.com/mkireland/AuraWriter",
+    "gumroad_url": "https://mkireland5000.gumroad.com/l/aurawriter",
     "links": {}
   },
   {
