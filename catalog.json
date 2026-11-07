@@ -462,13 +462,13 @@
     "id": "aurawriter-3b28c7cd",
     "status": "Published",
     "title": "AuraWriter",
-    "description": "Writing app",
+    "description": "Distraction-free environments built for fiction writers, novelists, and storytellers. Organize plot structures, manage character cards, and stay on target.",
     "section": "Apps",
     "category": "Writing",
     "categories": [
       "Writing"
     ],
-    "image": "https://app.notion.com/image/attachment%3Affe91232-f689-46e9-9fbe-01d147766774%3Aaurawriter_logo_dark_600.png?table=block&id=3f3d4688-1d91-8046-b4f1-ef0cf1b0ed62&spaceId=954d4688-1d91-8182-9981-0003ee7993bd&width=2000&userId=3ecd872b-594c-81e7-9317-0002f8073377&cache=v2&imgBuildSrc=requestProxiedImageUrl",
+    "image": "https://app.notion.com/image/attachment%3Affe91232-f689-46e9-9fbe-01d147766774%3Aaurawriter_logo_dark_600.png
     "back_image": "",
     "ratings": "",
     "platform": "GitHub, GumRoad, Website",
@@ -483,7 +483,10 @@
     "amazon_merch_url": "",
     "github_url": "https://github.com/mkireland/AuraWriter",
     "gumroad_url": "https://mkireland5000.gumroad.com/l/aurawriter",
-    "links": {}
+    "website_url:' "http://mki-enterprises.brizy.site/aurawriter",
+    "links": {"github_url": "https://github.com/mkireland/AuraWriter",
+    "gumroad_url": "https://mkireland5000.gumroad.com/l/aurawriter",
+    "website_url:' "http://mki-enterprises.brizy.site/aurawriter"}
   },
   {
     "id": "cherry-pi-237be78b",
