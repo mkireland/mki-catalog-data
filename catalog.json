@@ -468,10 +468,10 @@
     "categories": [
       "Writing"
     ],
-    "image": "https://cloud-1de12d.becdn.net/media/original/57ba9a0c43d2c5bccfb77e3cbdbac0bf.png",
+    "image": "https://cloud-1de12d.becdn.net/media/original/b1eef73284787ec56a9dc4f17b79b793.png",
     "back_image": "",
     "ratings": "",
-    "platform": "GitHub, GumRoad, Page",
+    "platform": "GitHub, GumRoad, Page, Website",
     "version": "1..0",
     "type": "",
     "design": "",
@@ -482,9 +482,9 @@
     "zazzle_url": "",
     "amazon_merch_url": "",
     "links": {
+      "Website": "https://mki-enterprises.brizy.site/aurawriter",
       "Gumroad": "https://mkireland5000.gumroad.com/l/aurawriter",
-      "GitHub": "https://github.com/mkireland/AuraWriter", 
-      "Website": "https://mki-enterprises.brizy.site/aurawriter"
+      "GitHub": "https://github.com/mkireland/AuraWriter"
     }
   },
   {
@@ -1711,6 +1711,81 @@
     "amazon_merch_url": "",
     "links": {
       "Website": "https://www.buymeacoffee.com/mkireland"
+    }
+  },
+  {
+    "id": "gumroad-df0f0355",
+    "status": "Published",
+    "title": "GumRoad",
+    "description": "If you have digital products to sell try GumRoad to get started.",
+    "section": "Links",
+    "category": "",
+    "categories": [],
+    "image": "",
+    "back_image": "",
+    "ratings": "",
+    "platform": "Website",
+    "version": "",
+    "type": "",
+    "design": "",
+    "size": "",
+    "style": "",
+    "page_url": "",
+    "amazon_url": "",
+    "zazzle_url": "",
+    "amazon_merch_url": "",
+    "links": {
+      "Website": "https://gumroad.com/discover?a=399911523"
+    }
+  },
+  {
+    "id": "youtarget-advitisor-cfb2a2c8",
+    "status": "Published",
+    "title": "YouTarget (Advitisor)",
+    "description": "If you are a small website and can’t get Google ads try YouTarget. They don’t just cater to the big sites.",
+    "section": "Links",
+    "category": "",
+    "categories": [],
+    "image": "",
+    "back_image": "",
+    "ratings": "",
+    "platform": "Website",
+    "version": "",
+    "type": "",
+    "design": "",
+    "size": "",
+    "style": "",
+    "page_url": "",
+    "amazon_url": "",
+    "zazzle_url": "",
+    "amazon_merch_url": "",
+    "links": {
+      "Website": "https://advert.youtarget.com/app/auth/register?ref=CVDKK93X"
+    }
+  },
+  {
+    "id": "youtarget-publisher-00f1dcd6",
+    "status": "Published",
+    "title": "YouTarget (Publisher)",
+    "description": "If you are an ad publisher and you want to reach sites that Google doesn’t hit then try YouTarget.",
+    "section": "Links",
+    "category": "",
+    "categories": [],
+    "image": "",
+    "back_image": "",
+    "ratings": "",
+    "platform": "Website",
+    "version": "",
+    "type": "",
+    "design": "",
+    "size": "",
+    "style": "",
+    "page_url": "",
+    "amazon_url": "",
+    "zazzle_url": "",
+    "amazon_merch_url": "",
+    "links": {
+      "Website": "https://publisher.youtarget.com/app/auth/register?ref=CVDKK93X"
     }
   }
 ]
